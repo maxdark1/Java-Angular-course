@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.commons.services{CommonService.java[CommonService" modifiers="513" timestamp="1661998709000"/>
+    <typeInfo handle="=Microservicios-cursos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.app.cursos.services{CursoService.java[CursoService" modifiers="513" timestamp="1662252304000"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.commons.services{CommonServiceImpl.java[CommonServiceImpl" modifiers="1" timestamp="1661998709000"/>
+</typeInfoHistroy>
