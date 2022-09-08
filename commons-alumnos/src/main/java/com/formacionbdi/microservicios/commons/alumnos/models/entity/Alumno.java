@@ -1,4 +1,4 @@
-package com.formacionbdi.microservicios.app.usuarios.model.entity;
+package com.formacionbdi.microservicios.commons.alumnos.models.entity;
 
 import java.util.Date;
 
